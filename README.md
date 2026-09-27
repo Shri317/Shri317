@@ -36,7 +36,6 @@ My repositories cover practical work around **data, analytics, dashboards, datab
 
 ## Connect
 - GitHub: Add your verified GitHub profile URL
-- LinkedIn: Add your verified LinkedIn URL
-- Portfolio: Add your verified portfolio URL
-
+- LinkedIn: www.linkedin.com/in/shriyansh-barsaiya-746552328
+- Portfolio: 
 > **Data → Analysis → Visualization → Insight**
